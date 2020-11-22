@@ -99,6 +99,12 @@
     position: relative;
   }
 
+  .navbar-logo:hover {
+    text-decoration: none;
+    font-size: 1.35rem;
+    transition: 0.2 ease;
+  }
+
   .last-section-navbar {
     position: relative;
     display: flex;
