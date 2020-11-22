@@ -31,7 +31,7 @@ function Cards() {
             />
             <ServicesItem
               src="https://images.pexels.com/photos/4045549/pexels-photo-4045549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-              text="A sleep therapies to prevent sleep disorders or insomnia."
+              text="Sleep therapies to prevent sleep disorders or insomnia."
               label="Sleep Therapy"
               path="/services"
             />
