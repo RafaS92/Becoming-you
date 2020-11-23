@@ -21,7 +21,7 @@ function Footer() {
               type="email"
               placeholder="Your Email"
             />
-            
+
             <Button buttonStyle="btn--outline">Subscribe</Button>
           </form>
         </div>
@@ -62,10 +62,9 @@ function Footer() {
       <section class="social-media">
         <div class="social-media-wrap">
           <div className="footer-logo">
-          <img src="/images/logo.png" alt="" className="logoB" />
-            <a to="/" className="social-logo">
+            <img src="/images/logo.png" alt="" className="logoB" />
+            <a href="/" className="social-logo">
               Becoming you
-              
             </a>
           </div>
           <small class="website-rights">Becoming you © 2020</small>
@@ -73,7 +72,6 @@ function Footer() {
             <a
               class="social-icon-link facebook"
               href="https://www.facebook.com/"
-              target="_blank"
               aria-label="Facebook"
             >
               <i class="fab fa-facebook-f" />
@@ -81,7 +79,6 @@ function Footer() {
             <a
               class="social-icon-link instagram"
               href="https://www.instagram.com/"
-              target="_blank"
               aria-label="Instagram"
             >
               <i class="fab fa-instagram" />
@@ -89,7 +86,6 @@ function Footer() {
             <a
               class="social-icon-link youtube"
               href="https://www.youtube.com/"
-              target="_blank"
               aria-label="Youtube"
             >
               <i class="fab fa-youtube" />
@@ -97,7 +93,6 @@ function Footer() {
             <a
               class="social-icon-link twitter"
               href="https://twitter.com/?lang=en"
-              target="_blank"
               aria-label="Twitter"
             >
               <i class="fab fa-twitter" />
@@ -105,7 +100,6 @@ function Footer() {
             <a
               class="social-icon-link twitter"
               href="https://www.linkedin.com/"
-              target="_blank"
               aria-label="LinkedIn"
             >
               <i class="fab fa-linkedin" />
